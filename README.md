@@ -2,7 +2,7 @@
 This project is aimed at (i)tracking COVID-19 in Africa & (ii) providing reliable source of information about COVID-19. 
 
 ## 1. Tracking COVID-19 in Africa
-Each file under data/ directory corresponds to the the reported COVID cases in a given African country as specified by the file name. Each file name corresponds to the the name of a specific African country. Based on the data, a dashboard has been created to visualise these case for each country. The dashboard can be accesse via the *[DASHBOARD LINK]*(https://oigf58v75e.execute-api.us-west-2.amazonaws.com/dev). The dataset is sourced from [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+Each file under data/ directory corresponds to the the reported COVID cases in a given African country as specified by the file name. Each file name corresponds to the the name of a specific African country. Based on the data, a dashboard has been created to visualise these case for each country. The dashboard can be accesse via the [DASHBOARD LINK](https://oigf58v75e.execute-api.us-west-2.amazonaws.com/dev). The dataset is sourced from [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
 ## 2. Sourcing COVID-19 Information
 
